@@ -1,0 +1,46 @@
+C Programming – Important Topics
+✅ Core Concepts
+-Data Types (int, char, float, double)
+-Format Specifiers (%d, %c, %f, etc.)
+-Type Casting
+-Variables & Constants (#define, const)
+
+✅ Operators
+-Arithmetic, Logical, Relational, Bitwise
+-Increment & Decrement (i++, ++i)
+-Ternary Operator
+
+✅ Control Flow
+-if, if-else, nested if
+-switch-case
+-for, while, do-while
+-break, continue, goto
+
+✅ Functions
+-Function Declaration & Definition
+-Pass by Value vs Pass by Reference
+-Recursion
+
+✅ Pointers
+-Pointer Basics (*, &)
+-Pointer Arithmetic
+-Pointers with Arrays & Functions
+-NULL Pointers
+-Dangling Pointers
+
+✅ Arrays & Strings
+-1D, 2D Arrays
+-String Functions (strlen, strcpy, strcmp)
+-Character arrays vs strings
+
+✅ Structures & Unions
+-Structure Definition & Usage
+-Nested Structures
+-Difference between Structures & Unions
+
+✅ Dynamic Memory
+malloc, calloc, realloc, free
+
+
+
+
