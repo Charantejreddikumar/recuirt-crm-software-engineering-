@@ -1,0 +1,38 @@
+ Python – Important Topics
+✅ Core Syntax
+-Variables, Data Types (int, float, str, bool)
+-Type Conversion
+-input() / print() formatting
+
+✅ Control Flow
+-if, elif, else
+-for loop (for i in range)
+-while loop
+-List comprehensions
+
+✅ Data Structures
+-Lists (append, pop, slicing)
+-Tuples (immutability)
+-Sets (union, intersection)
+-Dictionaries (key-value operations)
+
+✅ Functions
+def, return
+-Arguments: default, keyword, variable-length
+-Lambda functions
+-Recursion
+
+✅ String Handling
+-Slicing, split, join, strip
+-isalpha, isdigit, etc.
+
+✅ OOPs in Python
+-Classes & Objects
+-__init__ constructor
+-Inheritance
+-Method Overriding
+
+✅ Modules & Exceptions
+-Importing modules
+-Try, except, finally
+
